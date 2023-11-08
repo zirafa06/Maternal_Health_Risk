@@ -21,8 +21,8 @@ def predict():
                     values["Age"],
                     values["SystolicBP"],
                     values["BS"],
-                    values["HeartRate"],
                     values["BodyTemp"],
+                    values["HeartRate"],
                 ]
             ]
         )
