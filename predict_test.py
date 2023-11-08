@@ -5,8 +5,8 @@ values = {
     "Age": 36,
     "SystolicBP": 120,
     "BS": 1.2,
-    "BodyTemp": 37,
-    "HeartRate": 102,
+    "BodyTemp": 102,
+    "HeartRate": 83,
 }
 
 response = requests.post(url, json=values)
